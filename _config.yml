@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
+title: Yutian Pan
+email: "ytpan@uw.edu"
+description: "Yutian Pan's Journal"
+url: "https://EasyHard.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://EasyHard.github.io/photorama/gallery/"  
+  - JOURNAL: "https://EasyHard.github.io/photorama/journal/"
+  - ABOUT: "https://EasyHard.github.io/photorama/about/"
 
 # All translation keys
 translations:
