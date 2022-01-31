@@ -2,7 +2,7 @@
 title: Yutian Pan
 email: "ytpan@uw.edu"
 description: "Yutian Pan's Journal"
-url: "https://EasyHard.github.io"
+url: "https://pytpan.github.io"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://EasyHard.github.io/photorama/gallery/"  
-  - JOURNAL: "https://EasyHard.github.io/photorama/journal/"
-  - ABOUT: "https://EasyHard.github.io/photorama/about/"
+  - GALLERY: "https://pytpan.github.io/photorama/gallery/"  
+  - JOURNAL: "https://pytpan.github.io/photorama/journal/"
+  - ABOUT: "https://pytpan.github.io/photorama/about/"
 
 # All translation keys
 translations:
